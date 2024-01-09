@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+div{
+    width: 100%;
+
+}
+#title{
+    padding-top: 0px;
+}
+#desc{
+    color: black;
+    font-size: 18px;
+}
+#object_name{
+    width: 500px;
+    border: 5px;
+    border-radius: 5px;
+    border-color: black;
+}
+
+canvas{
+    border: 10px;
+    border-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    margin-top: 280px;
+}
